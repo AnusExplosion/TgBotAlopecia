@@ -1,1 +1,1 @@
-botinok = ''
+botinok = 'sapog'
