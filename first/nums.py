@@ -3,7 +3,7 @@ def get_sum(a, b):
 
 
 def say_hello():
-    print('яяяяйцы')
+    print('педикулёз')
 
 if __name__ == '__main__':
     print(get_sum(2, 2))
