@@ -1,1 +1,1 @@
-botinok = 'sapog'
+botinok = 'tuflya'
