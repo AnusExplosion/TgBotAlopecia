@@ -1,1 +1,1 @@
-botinok = 'crossovok'
+botinok = 'agapovka'
